@@ -1,7 +1,7 @@
 import 'location.dart';
 import 'networking.dart';
 
-const apikey = '8a0a6683adbeaaf977290eb80fd97c80';
+const apikey = '**************************'// i have hidden for some privacy reason
 const openWeatherMaqUrl = 'https://api.openweathermap.org/data/2.5/weather';
 
 class WeatherModel {
